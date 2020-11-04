@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Electronics Production
+title: Internet of Things
 ---
 
-# Electronics Production
+# Introduction to IOT

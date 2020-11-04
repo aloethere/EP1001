@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Electronics Production
+title: Electronics Design
 ---
 
-# Electronics Production
+# Electronics Design

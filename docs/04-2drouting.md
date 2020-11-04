@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Electronics Production
+title: 2D Computer Controlled Machining
 ---
 
-# Electronics Production
+# 2D Computer Controlled Machining
+---

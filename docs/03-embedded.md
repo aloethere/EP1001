@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Electronics Production
+title: Embedded Programming
 ---
 
-# Electronics Production
+# Embedded Programming
