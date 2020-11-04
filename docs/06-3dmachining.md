@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Molding 
+title: 3D Machining
 nav_order: 6
 ---
 
-# Molding & Casting
+# 3D Machining
