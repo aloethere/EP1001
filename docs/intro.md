@@ -4,7 +4,7 @@ title: Configuration
 nav_order: 2
 ---
 
-# Configuration
+# Electronics Production
 {: .no_toc }
 
 
