@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Electronics Production
 nav_order: 2
 ---
 
