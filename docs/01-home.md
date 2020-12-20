@@ -18,6 +18,6 @@ Grew up in the East of Singapore, I became interested in engineering after being
 
 I am also passionate in learning and teaching the Quran. As of now, I have been teaching part-time as a Quranic teacher for 4 years. Another big dream of mine is to be a master in the Arabic language so that I could understand better in the studies of Quran and Hadith. Feel free to chat with me if you have the same passion as mine :D 
 
-I am available on telegram. 
+I am available on telegram.<br>
 Username: @ArifahShah
 
