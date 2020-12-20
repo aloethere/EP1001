@@ -11,7 +11,8 @@ I'm Nur 'Arifah from Diploma in ELectrical and Electronic Engineering. This site
 
 EP1001 is my second elective module after completing EP1000 in my Semester 3. Now in Semester 4, 2nd Year in Singapore Polytechnic, I am excited for showcase what I've learnt, and of course the Final Project! Stay tuned to see what I am going to make.
 
-#### About Me
+### About Me
+<br>
 
 Grew up in the East of Singapore, I became interested in engineering after being captivated in tech videos on YouTube. Until now, YouTube is always my source of inspiration. I am always in wonderment when learning the latest technology available to us. I hope be able to pick up engineering related skills and one day be able to contribute to my Muslim community and the society at large.
 
