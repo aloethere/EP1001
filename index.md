@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
+last_modified_date:
 ---
 
 Aloethere!
@@ -20,3 +21,5 @@ I am also passionate in learning and teaching the Quran. As of now, I have been 
 
 You can reach me on telegram.<br>
 Username: @ArifahShah
+
+last_modified_date
