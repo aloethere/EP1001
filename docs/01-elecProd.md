@@ -13,12 +13,8 @@ Printed Circuit Board or PCB are used to configure all the electronic components
 <br>
 <center>
 	<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/pcb%20intro.jfif?raw=true" width="300"/>
-		<sub> //text smaller
-			<br>
-			<em>
-				A PCB of an electronic device. Image coutesy of [Unsplash](https://unsplash.com/photos/jXd2FSvcRr8)
-			</em>
-		</sub>
+		<sub> 
+			<em>A PCB of an electronic device.</em></sub>
 </center>
 
 This are generally the steps on how to create your own PCB:
