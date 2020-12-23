@@ -12,7 +12,7 @@ nav_order: 2
 Printed Circuit Board or PCB are used to configure all the electronic components of a device together. The traces of a circuit board connects all of the electrical signals from one junction to another. In our last module, we used an Arduino to help us assemble our circuit. Now going up a level higher, we learnt how to build our own PCB. This means we have the flexibilty to design and customise our microcontroller board for better product integration.
 <br>
 <center><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/pcb%20intro.jfif?raw=true" width="300"/>
-	
+
 <sub><em>A PCB of an electronic device.</em></sub></center>
 
 This are generally the steps on how to create your own PCB:
@@ -22,7 +22,12 @@ To design our schematics, we are using [EAGLE](https://www.autodesk.com/products
 
 
 **Step 2: CAM**<br>
-bla bal
+After designing the circuit, we will have to generate the Gcode based on the board layout. G-code is the language of CNC machines. It instructs the machine on how and where to move. There are two ways to go about this. 
+
+1. Using [mods](https://skeatz.github.io/mods/). 
+
+
+2. From EAGLE
 
 **Step 3: Milling**<br>
 blabla
