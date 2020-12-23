@@ -27,7 +27,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 1. Using [mods](https://fabfoundation.github.io/mods/)
 - Prepare image file. (png/svg)
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
 
 1. Using EAGLE
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
@@ -38,19 +38,19 @@ After designing the circuit, we will have to generate the G-code based on the bo
 Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
 **Step 3: Milling**<br>
-After generating the G-code, you can now prepare the board for milling. You should have 2 files ready; etch(traces) and mill(outline). Familiarise yourself with the CNC machine you are using. In Fablab SP, we are using the [STEPCRAFT 420](https://www.stepcraft.us/shop/product/20450-stepcraft-d-420-cnc-machine-self-assembly-kit-211?category=26) and [UCCNC](https://www.cncdrive.com/UCCNC.html) for the CNC control software.
+After generating the G-code, you can now prepare the board for milling. You should have 2 files ready to load; etch(traces) and mill(outline). Familiarise yourself with the CNC machine you are using. In Fablab SP, we are using the [STEPCRAFT 420](https://www.stepcraft.us/shop/product/20450-stepcraft-d-420-cnc-machine-self-assembly-kit-211?category=26) and [UCCNC](https://www.cncdrive.com/UCCNC.html) for the CNC control software.
 
-<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" height="300"/>
-<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" height="300"/>
+<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300" height="200"/>
+<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" height="200"/>
 
 Some G-code lines that are useful to know (example):  
-F60.00  - Move at a feed rate of 60  
-Z-0.05  - Z-coordinate depth of -0.05  
+F60.000 - Move at a feed rate of 60  
+Z-0.050 - Z-coordinate depth of -0.05  
 X10.903 - Move to this X-coordinate  
 Y1.9556 - Move to this Y-coordinate  
 
 **Step 4: Assembly**<br>
-
+With your freshly milled pcb board, you can now solder the components together. Refer to your schematic to assign the parts correctly. Use a multimeter to check the connections.
 
 
 # Assignment: Build a FabTinyISP Programmer
