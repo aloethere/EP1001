@@ -27,6 +27,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 1. Using [mods](https://fabfoundation.github.io/mods/)
 - Prepare image file. (png/svg)
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
+
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
 
 1. Using EAGLE
