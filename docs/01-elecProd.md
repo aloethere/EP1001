@@ -30,12 +30,14 @@ After designing the circuit, we will have to generate the Gcode based on the boa
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/>
 
-3. Using EAGLE
-Generate using EAGLE's pcb-gcode ULP (User Language Programme). I elaborated more on the [Electronic Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
+2. Using EAGLE.
+- Generate using EAGLE's pcb-gcode ULP (User Language Programme).
+- Set parameters. 
+I elaborated more on the [Electronic Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
 
 <center><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/></center>
 
-Before milling we can check the simulation with [CAMotics](https://camotics.org/).
+Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
 **Step 3: Milling**<br>
 
