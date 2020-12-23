@@ -25,12 +25,8 @@ To design our schematics, we are using [EAGLE](https://www.autodesk.com/products
 After designing the circuit, we will have to generate the Gcode based on the board layout. G-code is the language of CNC machines. It instructs the machine on how and where to move. There are two ways to go about this. 
 
 1. Using [mods](https://fabfoundation.github.io/mods/). 
-Prepare image file. (preferably png)
-To set parameters, 
-	- right click to begin 
-	- > programs 
-	- > open programs 
-	- > G-code: mill 2D pcb
+- Prepare image file. (preferably png)
+- To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
 <center><img src="" width="600"/></center>
 
