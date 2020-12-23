@@ -40,9 +40,6 @@ Before milling, we can check the simulation with [CAMotics](https://camotics.org
 **Step 3: Milling**<br>
 After generating the G-code, you can now prepare the board for milling. You should have 2 files ready to load; etch(traces) and mill(outline). Familiarise yourself with the CNC machine you are using. In Fablab SP, we are using the [STEPCRAFT 420](https://www.stepcraft.us/shop/product/20450-stepcraft-d-420-cnc-machine-self-assembly-kit-211?category=26) and [UCCNC](https://www.cncdrive.com/UCCNC.html) for the CNC control software.
 
-<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300" height="200"/>
-<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" height="200"/>
-
 Some G-code lines that are useful to know (example):  
 F60.000 - Move at a feed rate of 60  
 Z-0.050 - Z-coordinate depth of -0.05  
@@ -57,3 +54,6 @@ With your freshly milled pcb board, you can now solder the components together. 
 ---
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
+
+<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300" height="200"/>
+<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" height="200"/>
