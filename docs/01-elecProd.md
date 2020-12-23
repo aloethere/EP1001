@@ -22,20 +22,20 @@ To design our schematics, we are using [EAGLE](https://www.autodesk.com/products
 
 
 **Step 2: CAM**<br>
-After designing the circuit, we will have to generate the Gcode based on the board layout. G-code is the language of CNC machines. It instructs the machine on how and where to move. There are two ways to go about this. 
+After designing the circuit, we will have to generate the G-code based on the board layout. G-code is the language of CNC machines. It instructs the machine on how and where to move. There are two ways to go about this. 
 
-1. Using [mods](https://fabfoundation.github.io/mods/). 
+	1. Using [mods](https://fabfoundation.github.io/mods/). 
 - Prepare image file. (png/svg)
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/>
 
-2. Using EAGLE.
+	2. Using EAGLE.
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
 I elaborated more on the [Electronic Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
 
-<center><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/></center>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
 
 Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
