@@ -28,9 +28,14 @@ After designing the circuit, we will have to generate the Gcode based on the boa
 - Prepare image file. (preferably png)
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
-<center><img src="" width="600"/></center>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/>
 
 2. From EAGLE
 
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="500"/>
 **Step 3: Milling**<br>
 blabla
+
+# Assignment: Build a FabTinyISP Programmer
+---
