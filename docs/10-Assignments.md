@@ -4,7 +4,7 @@ title: Assignments
 nav_order: 10
 ---
 
-#Assignments
+# Assignments
 ---
 
 <br>[1. Electronics Production](https://aloethere.github.io/EP1001/docs/01-elecProd/#assignment-make-an-in-circuit-programmer-by-milling-and-stuffing-the-pcb)
