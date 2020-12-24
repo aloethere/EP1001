@@ -8,7 +8,7 @@ nav_order: 3
 ---
 ## Designing a PCB using EAGLE
 
-To create our own circuit board, we have to use a CAD tool to design the schematic and drawing its layout. EAGLE is a software that helps us do just that. 
+To create our own circuit board, we have to use a CAD tool to design the schematic and drawing its layout. Autodesk EAGLE is a software that helps us do just that. 
 
 <br>
 <center><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/pcb%20schematic.jfif?raw=true" width="300"/>

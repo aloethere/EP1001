@@ -28,7 +28,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - Prepare image file. (png/svg)
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
 
 1. Using EAGLE
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
@@ -48,11 +48,18 @@ X10.903 - Move to this X-coordinate
 Y1.9556 - Move to this Y-coordinate  
 
 **Step 4: Assembly**<br>
-With your freshly milled pcb board, you can now solder the components together. Refer to your schematic to assign the parts correctly. Use a multimeter to check the connections.
+With your freshly milled pcb board, you can now solder the components together. Refer to your schematic to assign the parts and orientation correctly. Use a multimeter to inspect for shorts between VCC and GND.
 
-
-# Assignment: Build a FabTinyISP Programmer
+# Assignment: Make an in-circuit programmer by milling and stuffing the PCB
 ---
+
+## Building a FabTinyISP Programmer
+
+I had a hard time understanding the principles of this ISP programmer especially on programming the chip, but lets ramble that part on [another day](https://aloethere.github.io/EP1001/docs/03-embedded/). So in an attempt to have a better overview, here is what I found out about the ISP Programmer.
+
+
+
+
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
 
