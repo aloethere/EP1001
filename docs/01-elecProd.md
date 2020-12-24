@@ -29,7 +29,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
-
+<br>
 1. Using EAGLE
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
