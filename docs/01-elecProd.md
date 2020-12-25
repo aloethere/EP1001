@@ -78,7 +78,7 @@ I will be generating the G-code in mods community. Import the traces file and se
 
 Then, click the Calculate button to download the G-code. Do the same for the outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
 
-<br>[fts_mini_traces.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_traces.pngsite.nc){: .btn }
+[fts_mini_traces.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_traces.pngsite.nc){: .btn }
 <br>[fts_mini_cut.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_cut.pngsite.nc){: .btn }
 
 
