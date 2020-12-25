@@ -55,7 +55,18 @@ With your freshly milled pcb board, you can now solder the components together. 
 
 ## Building a FabTinyISP Programmer
 
-I had a hard time understanding the principles of this ISP programmer especially on programming the chip, but lets ramble that part on [another day](https://aloethere.github.io/EP1001/docs/03-embedded/). So in an attempt to have a better overview, here is what I found out about the ISP Programmer.
+ISP (In-system Programming, also called in-cicuit serial programming) Programmers is used to program microcontrollers while being while installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
+
+Here are some articles explaining more about it:
+[https://en.wikipedia.org](https://en.wikipedia.org/wiki/In-system_programming).
+[http://www.ethernut.de](http://www.ethernut.de/en/tools/in-system-programming.html).
+
+The PCB that i'm making is based on the NAme's FabTinyISP. This board was specifically designed to be made in a Fablab. More about it [here](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
+
+Save the png files in your computer. 
+[Traces](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_traces.png){: .btn }
+[Outline](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_cut.png){: .btn }
+
 
 
 
