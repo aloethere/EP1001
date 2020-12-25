@@ -73,8 +73,8 @@ First, i save the png files in my computer.
 I will be generating the G-code in mods community. Import the traces file and set the parameters. This is the recommended setting for STEPCRAFT 420.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="200"/>
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="200"/>
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" height="500"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" height="500"/>
 
 https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png
 Then, click the Calculate button to download the G-code. Do the same for the outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
