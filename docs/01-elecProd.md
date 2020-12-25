@@ -82,4 +82,5 @@ Then, click the Calculate button to download the G-code. Do the same for the out
 <br>[fts_mini_cut.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_cut.pngsite.nc){: .btn }
 
 
-<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300" height="200"/>
+<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="300"/>
