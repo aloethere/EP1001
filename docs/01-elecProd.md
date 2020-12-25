@@ -65,9 +65,9 @@ The PCB that i'm making is based on the NAme's FabTinyISP. This board was specif
 
 First, i save the png files in my computer. 
 
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces.png?raw=true" width="400"/>
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/outline.png?raw=true" width="400"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces.png?raw=true" width="300"/>
 <br>[Traces](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_traces.png){: .btn .btn-purple }
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/outline.png?raw=true" width="300"/>
 [Outline](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_cut.png){: .btn .btn-purple }
 
 
