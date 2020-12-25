@@ -77,7 +77,7 @@ I will be generating the G-code in mods community. Import the traces file and se
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="200" height="500"/>
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="220" height="500"/>
-<sub><em>Setting up parameters in Mods Community</em></sub>
+<br><sub><em>Setting up parameters in Mods Community</em></sub>
 
 Then, click the Calculate button to download the G-code. Do the same for the Outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
 
@@ -92,8 +92,13 @@ Now, you will need to prepare a few things at the cnc milling station. They are:
 5. Wrench to tighten spindle
 
 Hold down the copper plate on the clamping surface. But instead of clamping, I will be taping underneath with a double-sided tape and tape it on its side to secure it down. Then, attached the end mill. Make sure it is secured tight.
-<img src="" width="300"><img src="" width="300"/>
-<sub><em>My attached copper baord       </em></sub><sub><em>A 0.8 mm end mill for cutting outline</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/taped%20board.png?raw=true" width="320">
+<br><sub><em>My attached copper baord</em></sub> 
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/0.8%20mm%20bit.png?raw=true" width="320"/>      
+<br><sub><em>0.8 mm end mill for cutting outline</em></sub>
+<br><img src="" width="320"/>
+<br><sub><em>0.1mm 30 deg V bit</em></sub> 
+
 
 
 
