@@ -15,7 +15,9 @@ Printed Circuit Board or PCB are used to configure all the electronic components
 <br>
 <sub><em>A PCB of an electronic device.</em></sub></center>
 
-This are generally the steps on how to create your own PCB:
+There are a few methods of pcb manufacturing out there. Here, we will be only focusing on milling them on a CNC machine.
+
+This are generally the steps on how to create your custom PCB:
 
 **Step 1: CAD**<br>
 To design our schematics, we are using [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) as our software. EAGLE lets PCB designers make circuit boards by editing their schematics before printing it out. You can check out more of this topic on my [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
@@ -73,14 +75,30 @@ First, i save the png files in my computer.
 I will be generating the G-code in mods community. Import the traces file and set the parameters. This is the recommended setting for STEPCRAFT 420.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="210" height="500"/>
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="210" height="500"/>
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="200" height="500"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="220" height="500"/>
+<sub><em>Setting up parameters in Mods Community</em></sub>
 
-Then, click the Calculate button to download the G-code. Do the same for the outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
+Then, click the Calculate button to download the G-code. Do the same for the Outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
 
 [fts_mini_traces.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_traces.pngsite.nc){: .btn }
 <br>[fts_mini_cut.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_cut.pngsite.nc){: .btn }
 
+Now, you will need to prepare a few things at the cnc milling station. They are:<br>
+1. Files ready in a thumbdrive
+2. Blank circuit board. We use copper clad plate.
+3. Bits and end mills
+4. Double-sided tape and masking tapes
+5. Wrench to tighten spindle
 
-<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="300"/>
+Hold down the copper plate on the clamping surface. But instead of clamping, I will be taping underneath with a double-sided tape and tape it on its side to secure it down. Then, attached the end mill. Make sure it is secured tight.
+<img src="" width="300"><img src="" width="300"/>
+<sub><em>My attached copper baord       </em></sub><sub><em>A 0.8 mm end mill for cutting outline</em></sub>
+
+
+
+
+<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="500"/>
+
+### Things that could go wrong
