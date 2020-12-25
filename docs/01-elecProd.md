@@ -75,7 +75,7 @@ First, i save the png files in my computer.
 I will be generating the G-code in mods community. Import the traces file and set the parameters. This is the recommended setting for STEPCRAFT 420.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="600"/>
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="186" height="500"/>
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/import%20traces%20mods.png?raw=true" width="184" height="500"/>
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="220" height="500"/>
 <br><sub><em>Setting up parameters in Mods Community</em></sub>
 
@@ -93,11 +93,11 @@ Now, you will need to prepare a few things at the cnc milling station. They are:
 
 Hold down the copper plate on the clamping surface. But instead of clamping, I will be taping underneath with a double-sided tape and tape it on its side to secure it down. Then, attached the end mill. Make sure it is secured tight.
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/taped%20board.png?raw=true" width="320"><br><sub><em>My attached copper baord</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/taped%20board.png?raw=true" width="300"><br><sub><em>My attached copper baord</em></sub>
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/1mm%2030deg.png?raw=true" width="320"/><br><sub><em>0.1mm 30 deg V bit for ething</em></sub> 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/1mm%2030deg.png?raw=true" width="300"/><br><sub><em>0.1mm 30 deg V bit for etching</em></sub> 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/0.8%20mm%20bit.png?raw=true" width="320"/><br><sub><em>0.8 mm end mill for cutting outline</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/0.8%20mm%20bit.png?raw=true" width="300"/><br><sub><em>0.8 mm end mill for cutting outline</em></sub>
 
 
 
