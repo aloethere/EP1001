@@ -55,7 +55,7 @@ With your freshly milled pcb board, you can now solder the components together. 
 
 ## Building a FabTinyISP Programmer
 
-ISP (In-system Programming, also called in-cicuit serial programming) Programmers is used to program microcontrollers while being while installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
+ISP (In-system Programming, also called in-ciruit serial programming) Programmers is used to program microcontrollers while being while installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
 
 Here are some articles explaining more about it:
 <br>[https://en.wikipedia.org](https://en.wikipedia.org/wiki/In-system_programming).
@@ -67,8 +67,8 @@ First, i save the png files in my computer.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces.png?raw=true" width="300"/>
 <br>[Traces](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_traces.png){: .btn .btn-purple }
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/outline.png?raw=true" width="300"/>
-[Outline](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_cut.png){: .btn .btn-purple }
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/outline.png?raw=true" width="300"/>
+<br>[Outline](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_cut.png){: .btn .btn-purple }
 
 
 
