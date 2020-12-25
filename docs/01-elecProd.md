@@ -70,7 +70,19 @@ First, i save the png files in my computer.
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/outline.png?raw=true" width="300"/>
 <br>[Outline 1000 dpi](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/fts_mini_cut.png){: .btn .mr-1 }
 
+I will be generating the G-code in mods community. Import the traces file and set the parameters. This is the recommended setting for STEPCRAFT 420.
 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recommended%20setting%20for%20stepcraft.png?raw=true" width="200"/>
+<br><img src="/images/import traces mods.png" width="200"/>
+<br><img src="/images/traces parameters mods.png" width="200"/>
+
+
+Then, click the Calculate button to download the G-code. These are the files that I generated. It should end with <em>.nc</em>.
+<br>[fts_mini_traces.png.nc](/source/fts_mini_traces.pngsite.nc){: .btn }
+<br>[fts_mini_cut.png.nc](/source/fts_mini_cut.pngsite.nc){: .btn }
+
+
+<img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="300" height="200"/>
 
 
 
