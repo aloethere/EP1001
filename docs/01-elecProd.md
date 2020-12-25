@@ -15,9 +15,7 @@ Printed Circuit Board or PCB are used to configure all the electronic components
 <br>
 <sub><em>A PCB of an electronic device.</em></sub></center>
 
-There are a few methods of pcb manufacturing out there. Here, we will be only focusing on milling them on a CNC machine.
-
-This are generally the steps on how to create your custom PCB:
+There are a few methods of pcb manufacturing out there. Here, we will be only focusing on milling them on a CNC machine. This are generally the steps on how to create your custom PCB:
 
 **Step 1: CAD**<br>
 To design our schematics, we are using [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) as our software. EAGLE lets PCB designers make circuit boards by editing their schematics before printing it out. You can check out more of this topic on my [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
@@ -31,7 +29,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
-<br>
+
 1. Using EAGLE
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
@@ -57,7 +55,7 @@ With your freshly milled pcb board, you can now solder the components together. 
 
 ## Building a FabTinyISP Programmer
 
-ISP (In-system Programming, also called in-ciruit serial programming) Programmers is used to program microcontrollers while being while installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
+ISP (In-system Programming, also called in-ciruit serial programming) Programmers is used to program microcontrollers while being installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
 
 Here are some articles explaining more about it:
 <br>[https://en.wikipedia.org](https://en.wikipedia.org/wiki/In-system_programming).
@@ -91,7 +89,7 @@ Now, you will need to prepare a few things at the cnc milling station. They are:
 4. Double-sided tape and masking tapes
 5. Wrench to tighten spindle
 
-Hold down the copper plate on the clamping surface. But instead of clamping, I will be taping underneath with a double-sided tape and tape it on its side to secure it down. Then, attached the end mill. Make sure it is secured tight.
+Hold down the copper plate on the clamping surface. But instead of clamping, I will be taping underneath with a double-sided tape and tape on its side to secure it down. Then, attached the end mill. Make sure it is secured tight.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/taped%20board.png?raw=true" width="300"><br><sub><em>My attached copper baord</em></sub>
 
