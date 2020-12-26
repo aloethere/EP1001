@@ -98,7 +98,11 @@ Hold down the copper plate on the MDF board. I will be taping underneath with a 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/0.8%20mm%20bit.png?raw=true" width="300"/><br><sub><em>0.8 mm end mill for cutting outline</em></sub>
 
 Load the file in UCCNC. Set the X and Y origin. Then calibrate the Z-axis. Select Start cycle.
-![](.mp4) 
+
+![](https://github.com/aloethere/EP1001/blob/gh-pages/images/calibrate%20z%20axis.mp4?raw=true)<br><sub><em>Calibrating Z-axis on a flat surface with a touch plate</em></sub>
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/cutting%20the%20outline.jpeg?raw=true" width="300"/><br><sub><em>Milling in operation</em></sub>
+
 
 
 
