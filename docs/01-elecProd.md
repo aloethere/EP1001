@@ -99,10 +99,10 @@ Hold down the copper plate on the MDF board. I will be taping underneath with a 
 
 Load the file in UCCNC. Set the X and Y origin. Then calibrate the Z-axis. Select Start cycle.
 
-![](https://youtu.be/EN4sXkCW4TI)<br><sub><em>Calibrating Z-axis on a flat surface with a touch plate</em></sub>
+<img src="https://media.giphy.com/media/CRA6Jxehr7jp2eHpRk/giphy.gif" width="400"/><br><sub><em>Calibrating Z-axis on a flat surface with a touch plate</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/cutting%20the%20outline.jpeg?raw=true" width="300"/><img src="https://media.giphy.com/media/vfPikxySa4hsiivEE3/giphy.gif" width="200"/><br><sub><em>Milling in operation</em></sub>
 
-<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="400"/><br><sub><em>What you should see on the laptop</em></sub>
 
 ### Things that could go wrong
