@@ -110,7 +110,7 @@ To cut the outline, leave the origin point at the same place. Calibrate the Z-ax
 
 I prepared the componets and start soldering. 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/soldering.jpeg?raw=true" width="=300"/><br><sub><em>Soldering</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/soldering.jpeg?raw=true" width="=300"/><br><sub><em>At the soldering workstation</em></sub>
 
 
 

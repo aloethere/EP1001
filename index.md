@@ -9,7 +9,7 @@ last_modified_date: %b %e %Y at %I:%M %p
 
 Aloethere!
 
-I'm Nur 'Arifah from Diploma in Electrical and Electronic Engineering. This site is a documentation for my Elective EP1001 - Further Digital Fabrication and Prototyping.
+I'm Nur 'Arifah from Diploma in Electrical and Electronic Engineering. This site is a documentation for my Elective EP1001 - Further Digital Fabrication and Prototyping. I am using a forked repository called <em>Just the Docs</em> from [pmarsceill](https://github.com/pmarsceill/just-the-docs) as the theme for this site. I owe my lecturer, Mr Steven, a debt of gratitude for imparting his knowledge to us.
 
 EP1001 is my second elective module after completing EP1000 in Year 2 Sem 1. Now in Sem 2, I am excited for showcase what I've learnt, and of course the Final Project! Stay tuned to see what I am going to make.
 
