@@ -7,7 +7,7 @@ nav_order: 10
 # Assignments
 ---
 1. [Electronics Production](https://aloethere.github.io/EP1001/docs/01-elecProd/#assignment-make-an-in-circuit-programmer-by-milling-and-stuffing-the-pcb)<br>
-1. [Electronic Design]()<br>
+1. [Electronic Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/#asssignment-redraw-an-echo-hello-world-board-add-at-least-a-button-and-led)<br>
 1. [Embedded Programming]()<br>
 1. [2D Controlled Machining]()<br>
 1. [3D Machining]()<br>
