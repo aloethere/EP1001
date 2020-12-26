@@ -108,11 +108,13 @@ Load the file in UCCNC. Set the X and Y origin. Then calibrate the Z-axis. Selec
 
 To cut the outline, leave the origin point at the same place. Calibrate the Z-axis again. And change the bit to 0.8mm end mill. 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/soldering.jpeg?raw=true" width="=400"/><br><sub><em>Soldering</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/soldering.jpeg?raw=true" width="=300"/><br><sub><em>Soldering</em></sub>
 
 
 
 
 
-### Things that could go wrong
-<img src="" width="400"
+### Things that could happen
+
+Bit breaks. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking.
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.jpeg?raw=true" width="400"
