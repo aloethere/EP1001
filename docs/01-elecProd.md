@@ -119,5 +119,6 @@ I prepared the componets and start soldering.
 
 ### Things that could happen
 
-Bit breaks. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking. Immidiately stop operation if it happens.
+Bit breaks. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking. Immediately stop operation if it happens.
+
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.png?raw=true" width="300">
