@@ -15,7 +15,7 @@ To create our own circuit board, we have to use a CAD tool to design the schemat
 <br>
 <sub><em>A close up shot of PCB design with its traces.</em></sub></center>
 
-In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true">  
+In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true">  
 
 # Assignment: Redraw an [echo hello world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo) (add at least a button and led)
 ---
