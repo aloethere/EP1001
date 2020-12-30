@@ -36,9 +36,9 @@ Now for me to use it, at the EAGLE control panel, go to the directory and select
 
 Create a new project.
 
-We will have to add and connect components in the schematic window first. To add components, select the add parts icon. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/add%20parts%20icon.png?raw=true"> You can either look through the listed libraries for a component to add or you can type it into the box above the "drop" button.
+We will have to add and connect components in the schematic window first. To add components, select the add parts icon <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/add%20parts%20icon.png?raw=true">. You can either look through the listed libraries for a component to add or you can type it into the box above the "drop" button.
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/how%20to%20add%20parts.png?raw=true" width="330">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/how%20to%20add%20parts.png?raw=true" width="500">
 
 
 
