@@ -27,7 +27,7 @@ To design our schematics, we are using [EAGLE](https://www.autodesk.com/products
 After designing the circuit, we will have to generate the G-code based on the board layout. G-code is the language of CNC machines. It instructs the machine on how and where to move. There are two ways to go about this. 
 
 1. Using [mods](https://fabfoundation.github.io/mods/)
-- Prepare image file. (png/svg)
+- Prepare image file in png.
 - To set parameters: right click to begin > programs > open programs > G-code: mill 2D pcb.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/mods%20overview.png?raw=true" width="400"/><br><sub><em>Mods Community interface.</em></sub>
@@ -36,7 +36,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
 <br>
-<sub>I elaborated more on the [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
+<sub>I demonstrated this in [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
 
 Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
@@ -79,7 +79,7 @@ I will be generating the G-code in mods community. Import the traces file and se
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/traces%20parameters%20mods.png?raw=true" width="220" height="500"/>
 <br><sub><em>Setting up parameters in Mods Community</em></sub>
 
-Then, click the Calculate button to download the G-code. Do the same for the Outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
+Then, click the Calculate button to download the G-code. You will also be able to see the toolpath. Do the same for the Outline with its correct settings. These are the files that I generated. It should end with <em>.nc</em>.
 
 [fts_mini_traces.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_traces.pngsite.nc){: .btn }
 <br>[fts_mini_cut.png.nc](https://github.com/aloethere/EP1001/blob/gh-pages/source/fts_mini_cut.pngsite.nc){: .btn }
