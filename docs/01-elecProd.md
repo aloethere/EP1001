@@ -61,7 +61,7 @@ Here are some articles explaining more about it:
 <br>[https://en.wikipedia.org](https://en.wikipedia.org/wiki/In-system_programming).
 <br>[http://www.ethernut.de](http://www.ethernut.de/en/tools/in-system-programming.html).
 
-The PCB that i'm making is based on the NAme's FabTinyISP. This board was specifically designed to be made in a Fablab. More about it [here](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
+The PCB that i'm making is based on the Brian's FabTinyISP. This board was specifically designed to be made in a Fablab. More about it [here](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/index.html)
 
 First, i save the png files in my computer. 
 
@@ -111,6 +111,18 @@ To cut the outline, leave the origin point at the same place. Calibrate the Z-ax
 I prepared the components and start soldering. 
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/soldering.jpeg?raw=true" width="=300"/><br><sub><em>At the soldering workstation</em></sub>
+
+I refer from Brian's board image and schematic to determine where the components are placed. This is to take note that I have placed them in the right orientation (for ATtiny85, LED and Zener diode).
+
+<img src="" width="400"/>
+
+<img src="" width="400"/>
+
+This is my soldered ISP board. I may need to work on my soldering skill but so far all of the connections are fine. Next, I will need to program this board for it to become an AVR programmer. 
+
+<img src="" width="400"/><br><sub><em>My completed Board</em></sub>
+
+
 
 
 ### Things that could happen

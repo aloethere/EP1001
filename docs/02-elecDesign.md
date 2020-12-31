@@ -40,6 +40,10 @@ We will have to add and connect components in the schematic window first. To add
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/how%20to%20add%20parts.png?raw=true" width="500">
 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
+
+
+
 
 
  
