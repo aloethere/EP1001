@@ -114,15 +114,13 @@ I prepared the components and start soldering.
 
 I refer from Brian's board image and schematic to determine where the components are placed. This is to take note that I have placed them in the right orientation (for ATtiny85, LED and Zener diode).
 
-<img src="" width="400"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/fabtinyisp%20board%20img.png?raw=true" width="400"/>
 
-<img src="" width="400"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/fabtinyisp%20schematic.png?raw=true" width="400"/>
 
 This is my soldered ISP board. I may need to work on my soldering skill but so far all of the connections are fine. Next, I will need to program this board for it to become an AVR programmer. 
 
 <img src="" width="400"/><br><sub><em>My completed Board</em></sub>
-
-
 
 
 ### Things that could happen
@@ -130,3 +128,5 @@ This is my soldered ISP board. I may need to work on my soldering skill but so f
 The pressure from the spinning spindle could break the bits. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking. Immediately stop operation if it happens.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.png?raw=true" width="300">
+
+Burr
