@@ -15,7 +15,9 @@ Printed Circuit Board or PCB are used to configure all the electronic components
 <br>
 <sub><em>A PCB of an electronic device.</em></sub></center>
 
-There are a few methods of pcb manufacturing out there. Here, we will be only focusing on milling them on a CNC machine. This are generally the steps on how to create your custom PCB:
+There are a few methods of pcb manufacturing out there. Here, we will be only focusing on milling them on a CNC machine. What is great about machining your PCB is that it does not create toxic waste like the lithography process or other method that uses chemical. 
+
+This are generally the steps on how to create your custom PCB:
 
 **Step 1: CAD**<br>
 To design our schematics, we are using [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) as our software. EAGLE lets PCB designers make circuit boards by editing their schematics before printing it out. You can check out more of this topic on my [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.
@@ -55,7 +57,7 @@ With your freshly milled pcb board, you can now solder the components together. 
 
 ## Building a FabTinyISP Programmer
 
-ISP (In-system Programming, also called in-ciruit serial programming) Programmers is used to program microcontrollers while being installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
+ISP (In-system Programming, also called in-circuit serial programming) Programmers is used to program microcontrollers while being installed in a complete system, rather than requiring the chip to be programmed prior to installing it in the system. This allows the microcontrollers to be re-programed without being removed from the target board. 
 
 Here are some articles explaining more about it:
 <br>[https://en.wikipedia.org](https://en.wikipedia.org/wiki/In-system_programming).
