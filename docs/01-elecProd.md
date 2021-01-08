@@ -108,7 +108,13 @@ Load the file in UCCNC. Set the X and Y origin. Then calibrate the Z-axis. Selec
 
 <img src="https://media.giphy.com/media/2m8gV2mPMlBYtIMlCw/giphy.gif" width="400"/><br><sub><em>What you should see on the laptop</em></sub>
 
-To cut the outline, leave the origin point at the same place. Calibrate the Z-axis again. And change the bit to 0.8mm end mill. 
+To cut the outline, leave the origin point at the same place. Calibrate the Z-axis again. And change the bit to 0.8mm end mill.
+
+During the milling, the end mill broke apart. I realised the pressure from the spinning spindle could break the bits. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking. Immediately stop operation if it happens.
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.png?raw=true" width="300"> 
+
+Burr. Since the end mill was not very sharp. The outcome of my milling has a lot of burr. I sand lightly on the surface of the rised edge. Be careful not to remove the copper traces in the process. 
 
 I prepared the components and start soldering. 
 
@@ -125,10 +131,18 @@ This is my soldered ISP board. I may need to work on my soldering skill but so f
 <img src="" width="400"/><br><sub><em>My completed Board</em></sub>
 
 
-### Things that could happen
+# Programming my ISP board
 
-The pressure from the spinning spindle could break the bits. Therefore always give attention to your milling process. We could control the speed setting to prevent it from breaking. Immediately stop operation if it happens.
+AVRDUDE is a utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers using the in-system programming technique (ISP). Read more [here](http://www.nongnu.org/avrdude/)
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.png?raw=true" width="300">
+### Software Installation
 
-Burr
+To set up my development environment, i installed the folloeing softwares.
+
+1. Git
+2. Atmel GNU Toolchain
+3. GNU Make
+4. Avrdude
+5. Zadig
+
+<img src="" width="400"/><br><sub><em></em></sub>
