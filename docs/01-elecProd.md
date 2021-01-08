@@ -36,7 +36,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
 <br>
-<sub>I demonstrated this in [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
+<sub>I demonshcgctrated this in [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
 
 Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
