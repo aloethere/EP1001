@@ -114,7 +114,7 @@ During the milling, the end mill broke apart. I realised the pressure from the s
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/what%20could%20go%20wrong.png?raw=true" width="300"> 
 
-Burr. Since the end mill was not very sharp. The outcome of my milling has a lot of burr. I sand lightly on the surface of the rised edge. Be careful not to remove the copper traces in the process. 
+Burr. Since the end mill was not very sharp. The outcome of my milling has a lot of burr. I sand lightly on the surface of the rised edge. Use the finest sand paper grit available. Be careful not to remove the copper traces in the process. 
 
 I prepared the components and start soldering. 
 
@@ -128,7 +128,7 @@ I refer from Brian's board image and schematic to determine where the components
 
 This is my soldered ISP board. I may need to work on my soldering skill but so far all of the connections are fine. Next, I will need to program this board for it to become an AVR programmer. 
 
-<img src="" width="400"/><br><sub><em>My completed Board</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/completed%20board%20bfr.jpeg?raw=true" width="400"/><br><sub><em>My completed Board</em></sub>
 
 
 # Programming my ISP board
