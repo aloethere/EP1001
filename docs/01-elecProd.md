@@ -36,7 +36,7 @@ After designing the circuit, we will have to generate the G-code based on the bo
 - Generate using EAGLE's pcb-gcode ULP (User Language Programme).
 - Set parameters. 
 <br>
-<sub>I demonshcgctrated this in [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
+<sub>I demonstrated this in [Electronics Design](https://aloethere.github.io/EP1001/docs/02-elecDesign/) page.</sub>
 
 Before milling, we can check the simulation with [CAMotics](https://camotics.org/).
 
@@ -51,6 +51,13 @@ Y1.9556 - Move to this Y-coordinate
 
 **Step 4: Assembly**<br>
 With your freshly milled pcb board, you can now solder the components together. Refer to your schematic to assign the parts and orientation correctly. Use a multimeter to inspect for shorts between VCC and GND.
+
+## How to inspect continuity between GND and VCC
+
+- Measure between GND pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohhm.
+- Measure between VCC pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohhm.
+- Measure between VCC and GND pins. Multimeter should not beep and read OL (overload). Overload means there is no connection (short circuit).
+- To check LED working, check circuit between VCC and GND. LED should light up. 
 
 # Assignment: Make an in-circuit programmer by milling and stuffing the PCB
 ---
