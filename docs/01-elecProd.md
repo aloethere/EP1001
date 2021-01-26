@@ -54,8 +54,8 @@ With your freshly milled pcb board, you can now solder the components together. 
 
 ## How to inspect continuity between GND and VCC
 
-- Measure between GND pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohhm.
-- Measure between VCC pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohhm.
+- Measure between GND pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohm.
+- Measure between VCC pins of ATtiny85 and ISP header. Multimeter should beep and read 0 Ohm.
 - Measure between VCC and GND pins. Multimeter should not beep and read OL (overload). Overload means there is no connection (short circuit).
 - To check LED working, check circuit between VCC and GND. LED should light up. 
 
