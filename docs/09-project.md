@@ -20,6 +20,12 @@ thingiverse modification: removed and replace the correct screwholes. offset scr
 |No. |   Bill of materials         |Qty  |
 |    |-----------------------------|-----|
 |  1 |Lego Kotak felga wheels 30mm |  6  |
-|  2 |                             |     |
-|  3 |                             |     |
-|  4 |                             |     |
+|  2 |28BYJ Stepper Motor          |  2  |
+|  3 |Micro Servo SG90             |  2  |
+|  4 |ESP32 MIcrocontroller        |  1  |
+|  5 |Buttons                      |  2  |
+|  6 |On/Off Switch                |  1  |
+|  7 |Li-ion 3.4V battery          |  2  |
+|  8 |Battery Case                 |  1  |
+|  9 |8 segment LED bar            |  1  |
+| 10 | 
