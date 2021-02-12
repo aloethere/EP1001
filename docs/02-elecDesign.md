@@ -15,7 +15,7 @@ In EAGLE, there are two windows called SCH and BRD. We can switch between the sc
 # Assignment: Redraw an [echo hello world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo) (add at least a button and led)
 ---
 
-I will be making an echo board using the ATtiny85 chip. This is the datasheet summary for ATtiny85.
+I will be making an echo board using the ATtiny85 chip. This is the datasheet summary for ATtiny85 found on Microchip website.
 <iframe src="https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf" width="80%" height="500px"></iframe>
 
 To get started, I will need to download and install the component library. The library I'm using is [fab.lr](https://gitlab.fabcloud.org/pub/libraries/electronics).
