@@ -10,12 +10,18 @@ nav_order: 3
 
 To create our own circuit board, we have to use a CAD tool to design the schematic and drawing its layout. Autodesk EAGLE is a software that helps us do just that. 
 
-In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true">  
+In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true"><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20icon.png?raw=true">  
 
 # Assignment: Redraw an [echo hello world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo) (add at least a button and led)
 ---
 
-I will be making an echo board using the ATtiny85 chip. The datasheet can be found [here](http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf.). To get started, I will need to download and install the component library. The library I'm using is [fab.lr](https://gitlab.fabcloud.org/pub/libraries/electronics).
+I will be making an echo board using the ATtiny85 chip. This is the datasheet summary for ATtiny85.
+<iframe
+src="https://github.com/aloethere/EP1001/blob/gh-pages/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf"></iframe>
+
+[ATtiny85 Datasheet](https://github.com/aloethere/EP1001/commit/865b8fd4f021c088d82ff23923f95c0d5d2c2139){: .btn } To get started, I will need to download and install the component library. 
+
+The library I'm using is [fab.lr](https://gitlab.fabcloud.org/pub/libraries/electronics).
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/fab.lr%20step1.png?raw=true" width="330">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/fab.lr%20step%202.png?raw=true" width="330"><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/fab.lr%20step%203.png?raw=true" width="330">
@@ -57,7 +63,7 @@ When we move to Board view, the components that we have just wire will be jumble
 2. Route all the traces. Or use the autorouter feature.
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true" width="150">
 
-3. Use DRC to select wire dimention. 
+3. Use DRC to select wire dimension. 
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="300">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="300">
 
