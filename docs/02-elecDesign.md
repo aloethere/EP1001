@@ -61,11 +61,11 @@ When we move to Board view, the components that we have just wire will be jumble
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true" width="150">
 
 3. Use DRC to select wire dimension. 
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="300">
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="300">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="200">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="200">
 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20board%20design.png?raw=true" width="450">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20board%20design.png?raw=true" width="450"><br><sub><em>Finalised board design before generating Gcode</em></sub>
 
 
 
