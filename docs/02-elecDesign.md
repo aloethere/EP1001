@@ -10,14 +10,13 @@ nav_order: 3
 
 To create our own circuit board, we have to use a CAD tool to design the schematic and drawing its layout. Autodesk EAGLE is a software that helps us do just that. 
 
-In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true"><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20icon.png?raw=true">  
+In EAGLE, there are two windows called SCH and BRD. We can switch between the schematic and board button to design a pcb.<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20brd%20button.png?raw=true">    <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/sch%20icon.png?raw=true">  
 
 # Assignment: Redraw an [echo hello world board](http://academy.cba.mit.edu/classes/embedded_programming/index.html#echo) (add at least a button and led)
 ---
 
 I will be making an echo board using the ATtiny85 chip. This is the datasheet summary for ATtiny85.
-<iframe
-src="https://github.com/aloethere/EP1001/commit/865b8fd4f021c088d82ff23923f95c0d5d2c2139#diff-1468b0e5a2d190799b958870bca4f151f4387c32c433fab987086b7a6edcf210"></iframe>
+<iframe src="https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf"></iframe>
 
 To get started, I will need to download and install the component library. The library I'm using is [fab.lr](https://gitlab.fabcloud.org/pub/libraries/electronics).
 
