@@ -39,11 +39,27 @@ We will have to add and connect components in the schematic window first. To add
 
 1. Add in the right components for your board.
 2. Create connections between them.
-3. Verify thed dessign using ERC. 
-4. Go to board view to position our components and route traces.
+3. Label our components name and their value. 
+4. Verify the design using ERC. 
+5. Go to board view to position our components and route traces.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
 <br><sub><em>This is a screenshot of my completed schematic</em></sub>
+
+### Editing the Board
+
+When we move to Board view, the components that we have just wire will be jumbled up. We will have to re-arrange the traces accordingly, up to the user's design.
+
+1. Move individul components around. Rotate to figure out the simplest pathway.
+2. Route all the traces. Or use the autorouter feature.
+<img src="" >
+
+
+3. Use DRC to select wire dimention. 
+<img src="" >
+
+
+
 
 
 
