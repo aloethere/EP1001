@@ -50,7 +50,7 @@ We will have to add and connect components in the schematic window first. To add
 5. Verify the design using ERC. 
 6. Go to board view to position our components and route traces.
 
-Refer to this Sparkfun link for detailed explaination on wiring up schematic on EAGLE.[](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
+Refer to this Sparkfun link for detailed explaination on wiring up schematic on EAGLE.[https://learn.sparkfun.com/tutorials/using-eagle-schematic](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
 <br><sub><em>This is a screenshot of my completed schematic</em></sub>
