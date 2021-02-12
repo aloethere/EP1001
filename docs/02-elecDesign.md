@@ -38,7 +38,7 @@ We will have to add and connect components in the schematic window first. To add
 ### Editing the schematic
 
 1. Add in the right components for your board.
-2. Use NET tool to wire our parts together. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/net%20icon.png?raw=true">
+2. Use NET tool to wire our parts together. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/net%20icon.png?raw=true" width="20">
 3. Use NAME tool to identify our components/name our nets. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/name%20icon.png?raw=true">
 4. Use VALUE tool to set resistors resistance or capacitors capacitance. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/value%20icon.png?raw=true">
 5. Verify the design using ERC. 
@@ -55,10 +55,10 @@ When we move to Board view, the components that we have just wire will be jumble
 
 1. Move individual components around. Rotate to figure out the simplest pathway.
 2. Route all the traces. Or use the autorouter feature.
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true" width="100">
 
 3. Use DRC to select wire dimention. 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="300">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="300">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="300">
 
 
