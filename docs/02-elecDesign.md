@@ -50,13 +50,12 @@ We will have to add and connect components in the schematic window first. To add
 
 When we move to Board view, the components that we have just wire will be jumbled up. We will have to re-arrange the traces accordingly, up to the user's design.
 
-1. Move individul components around. Rotate to figure out the simplest pathway.
+1. Move individual components around. Rotate to figure out the simplest pathway.
 2. Route all the traces. Or use the autorouter feature.
-<img src="" >
-
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true">
 
 3. Use DRC to select wire dimention. 
-<img src="" >
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" >
 
 
 
