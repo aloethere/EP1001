@@ -64,8 +64,23 @@ When we move to Board view, the components that we have just wire will be jumble
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="200">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="200">
 
+4. Create a border under the milling layer. (blue)
+
+It it safe to say, to cnc a pcb in fablab, use this parameters to determine width of traces:
+* 10mil / 0.25mm for *very fine traces*
+* 16mil / 0.4mm  for *traces*
+* 32mil / 0.8mm  for *board outline*
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20board%20design.png?raw=true" width="450"><br><sub><em>Finalised board design before generating Gcode</em></sub>
+
+### Export board design
+
+Select the LAYER icon located on the top left of the screen. <img src="">
+
+From here you may use EAGLE's pcb-gcode setup or export a high resolution png image. Since EAGLE has a setup to generate Gcode, i'll would like to try exporting my board design directly from EAGLE software.
+
+Run pcb-gcode ULP. <img src="">
+
 
 
 
