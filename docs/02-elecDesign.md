@@ -17,9 +17,7 @@ In EAGLE, there are two windows called SCH and BRD. We can switch between the sc
 
 I will be making an echo board using the ATtiny85 chip. This is the datasheet summary for ATtiny85.
 <iframe
-src="https://github.com/aloethere/EP1001/blob/gh-pages/source/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf"></iframe>
-
-[ATtiny85 Datasheet](https://github.com/aloethere/EP1001/commit/865b8fd4f021c088d82ff23923f95c0d5d2c2139){: .btn } 
+src="https://github.com/aloethere/EP1001/commit/865b8fd4f021c088d82ff23923f95c0d5d2c2139#diff-1468b0e5a2d190799b958870bca4f151f4387c32c433fab987086b7a6edcf210"></iframe>
 
 To get started, I will need to download and install the component library. The library I'm using is [fab.lr](https://gitlab.fabcloud.org/pub/libraries/electronics).
 
@@ -50,7 +48,7 @@ We will have to add and connect components in the schematic window first. To add
 5. Verify the design using ERC. 
 6. Go to board view to position our components and route traces.
 
-Refer to this Sparkfun link for detailed explaination on wiring up schematic on EAGLE. [https://learn.sparkfun.com/tutorials/using-eagle-schematic](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
+Refer to this Sparkfun link for detailed explanation on wiring up schematic on EAGLE. [https://learn.sparkfun.com/tutorials/using-eagle-schematic](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
 <br><sub><em>This is a screenshot of my completed schematic</em></sub>
