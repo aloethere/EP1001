@@ -39,12 +39,12 @@ We will have to add and connect components in the schematic window first. To add
 
 1. Add in the right components for your board.
 2. Use NET tool to wire our parts together. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/net%20icon.png?raw=true" width="20">
-3. Use NAME tool to identify our components/name our nets. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/name%20icon.png?raw=true">
-4. Use VALUE tool to set resistors resistance or capacitors capacitance. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/value%20icon.png?raw=true">
+3. Use NAME tool to identify our components/name our nets. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/name%20icon.png?raw=true" width="20">
+4. Use VALUE tool to set resistors resistance or capacitors capacitance. <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/value%20icon.png?raw=true" width="20">
 5. Verify the design using ERC. 
 6. Go to board view to position our components and route traces.
 
-Refer to this Sparkfun link for detailed explaination on wiring up schematic on EAGLE. https://learn.sparkfun.com/tutorials/using-eagle-schematic
+Refer to this Sparkfun link for detailed explaination on wiring up schematic on EAGLE.[](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
 <br><sub><em>This is a screenshot of my completed schematic</em></sub>
@@ -55,14 +55,14 @@ When we move to Board view, the components that we have just wire will be jumble
 
 1. Move individual components around. Rotate to figure out the simplest pathway.
 2. Route all the traces. Or use the autorouter feature.
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true" width="100">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/autorouter.png?raw=true" width="150">
 
 3. Use DRC to select wire dimention. 
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc.png?raw=true" width="300">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/drc%20p2.png?raw=true" width="300">
 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20board%20design.png?raw=true" width="500">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20board%20design.png?raw=true" width="450">
 
 
 
