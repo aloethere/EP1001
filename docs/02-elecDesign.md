@@ -35,7 +35,15 @@ We will have to add and connect components in the schematic window first. To add
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/how%20to%20add%20parts.png?raw=true" width="500">
 
+### Editing the schematic
+
+1. Add in the right components for your board.
+2. Create connections between them.
+3. Verify thed dessign using ERC. 
+4. Go to board view to position our components and route traces.
+
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/elecDesign%20img/completed%20schematic.png?raw=true" width="500">
+<br><sub><em>This is a screenshot of my completed schematic</em></sub>
 
 
 
