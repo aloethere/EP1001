@@ -144,7 +144,7 @@ AVRDUDE is a utility to download/upload/manipulate the ROM and EEPROM contents o
 
 ### Software Installation
 
-To set up my development environment, i installed the folloeing softwares.
+To set up my development environment, i installed the following softwares.
 
 1. Git
 2. Atmel GNU Toolchain
