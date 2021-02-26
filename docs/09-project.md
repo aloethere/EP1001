@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=68V2GjK6hH0
 Eagle ESP32 lib https://esp32.com/viewtopic.php?t=7004
 https://www.diymodules.org/download/eagle-libs/dm/diy-modules.lbr
 
-
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/presentation.png?raw=true">
 
 
 
