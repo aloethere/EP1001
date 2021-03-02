@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assignments
-nav_order: 10
+nav_order: 12
 ---
 
 # Assignments

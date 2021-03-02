@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Slide and Video
-nav_order: 11
+title: Slides and Video
+nav_order: 14
 parent: Project
 ---
 
