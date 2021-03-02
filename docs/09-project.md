@@ -5,10 +5,14 @@ nav_order: 10
 has_children: true
 ---
 
-# Final Project - WALL-E Robot
+# Final Project - Making a WALL-E Robot
 ---
 
-The inspiration comes from the 
+The movie WALL-E produced by Pixar is a masterpiece that stucked with me till now. It's message is huge and not something to be ignored. If you havent seen the film yet, this ingenious movie would probably be your next favourite.
+
+**Why make WALL-e?**
+
+
 https://www.youtube.com/watch?v=68V2GjK6hH0
 
 Eagle ESP32 lib https://esp32.com/viewtopic.php?t=7004
