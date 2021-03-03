@@ -36,6 +36,7 @@ I later messed up some of the given wheels. So I 3d printed my own. The 3D print
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-3d%20print.jpeg?raw=true" width = "250">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-3d%20print.png?raw=true" width="250">
+<img src="" width="250">
 
 [3dprint_wheelhex.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/3d%20print%20lego%20wheels%20hexegon%20v2.stl){: .btn }
 
