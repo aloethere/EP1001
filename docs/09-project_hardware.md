@@ -14,7 +14,7 @@ My first step was to design the tracks for WALL-E. Since WALL-E has a triangular
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/treads2.png?raw=true" width = "250">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/treads.jpg?raw=true" width = "250">
-<br><sub><em>Animated WALL-E has a treads with changeable shapes</em></sub>
+<br><sub><em>Animated WALL-E has a treads with changeable shapes using tensioner and lift system</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-%20acrylic.png?raw=true" width = "250">
 
@@ -45,12 +45,12 @@ I later messed up some of the given wheels. So I 3d printed my own. The 3D print
 The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica on thingiverse](https://www.thingiverse.com/thing:3703555). The dimension and designs are life-sized so I went to scale it down to 60% of it's original file. To do this, I downloaded the STEP files on thigiverse and modify accordingly on Fusion 360. Most of the modification is to delete unwanted features and re-size the screw holes.
 
 **Bottom** 
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685532433c7c358afe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685532433c7c358afe?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 **Front**
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96811d2b3882f03bf3e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96811d2b3882f03bf3e?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968cf32895136ca45ea?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968cf32895136ca45ea?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 **Back**
 
