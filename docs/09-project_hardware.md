@@ -50,7 +50,7 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 **Front**
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96811d2b3882f03bf3e?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968cf32895136ca45ea?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968cf32895136ca45ea?mode=embed" width="540" height="380" allowfullscreen="true"></iframe>
 
 **Back**
 
