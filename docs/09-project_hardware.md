@@ -14,7 +14,7 @@ My first step was to design the tracks for WALL-E. Since WALL-E has a triangular
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/treads2.png?raw=true" width = "250">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/treads.jpg?raw=true" width = "250">
-<sub><em>Animated WALL-E has a treads with changeable shapes</em></sub>
+<br><sub><em>Animated WALL-E has a treads with changeable shapes</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-%20acrylic.png?raw=true" width = "250">
 [tracks_frame.dxf]() {: .btn }
@@ -30,8 +30,8 @@ While finalising my acrylic design, I also realised that it would be better if i
 
 I later messed up some of the given wheels. So I 3d printed my own. The 3D printed wheels are flushed as well and feature a hexagon hole for *this thing* to act as my axle. I printed 2 pieces and both are placed for the top position of the triangle, which will then connect straight to my continuous servo.
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/Female-Hex-Hexagonal.jpg?raw=true" width = "250">
-<sub><em>*The thing*</em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/Female-Hex-Hexagonal.jpg?raw=true" width = "100">
+<br><sub><em>*The thing*</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-3d%20print.jpeg?raw=true" width = "250">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-3d%20print.png?raw=true" width="250">
