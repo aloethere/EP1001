@@ -17,16 +17,17 @@ My first step was to design the tracks for WALL-E. Since WALL-E has a triangular
 <br><sub><em>Animated WALL-E has a treads with changeable shapes</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-%20acrylic.png?raw=true" width = "250">
-[tracks_frame.dxf]() {: .btn }
+
+[tracks_frame.dxf](https://github.com/aloethere/EP1001/blob/gh-pages/files/laser%20cut%20track%20supoort%20new%20v4.f3d?raw=true){: .btn }
 
 While finalising my acrylic design, I also realised that it would be better if i trim the lego wheels to be narrower in width. This is so that the drive wheel tracks looks flushed. So i sawed them on each sides. I use a total of 6 wheel rims. I also attached some washers so there could be less friction when the wheels are rotating.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel%20trimmed.jpeg?raw=true" width = "250">
-<sub><em>Trimmed lego wheels (only 1 side)</em></sub>
+<br><sub><em>Trimmed lego wheels (only 1 side)</em></sub>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-washer2.jpeg?raw=true" width="250">
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel-washer1.jpeg?raw=true" width="250">
-<sub><em>Super glued washer both sides</em></sub>
+<br><sub><em>Super glued washer both sides</em></sub>
 
 I later messed up some of the given wheels. So I 3d printed my own. The 3D printed wheels are flushed as well and feature a hexagon hole for *this thing* to act as my axle. I printed 2 pieces and both are placed for the top position of the triangle, which will then connect straight to my continuous servo.
 
