@@ -88,10 +88,12 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9686af2c646f9c13c02?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 [3dp_arm.stl](){: .btn }
-[3dp_fingers.stl](){: .btn }
-[3dp_arm-hingeinner.stl](){: .btn }
-[3dp_arm-hingeouter.stl](){: .btn }
-[3dp_hand-bracket.stl](){: .btn }
+<br>[3dp_fingers.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-fingers%20.stl){: .btn }
+<br>[3dp_arm-hingeinner.stl](){: .btn }
+<br>[3dp_arm-hingeouter.stl](){: .btn }
+<br>[3dp_arm-hingeaxle.stl](){: .btn }
+<br>[3dp_hand-bracket.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-bracket.stl){: .btn }
+
 
 - Joined barrel and piston part. Added screw hole to minimise axle movement.
 - Arm hinge outer extrude. longer.
