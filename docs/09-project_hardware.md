@@ -85,7 +85,7 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Reposition engraved area for force-fitted servo arm brackets
 
 **Top**
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968101d51db1d201d3e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968101d51db1d201d3e?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 - Created an on/off switch area
 - Should hv check the screw hole position that connects to arm bracket
@@ -101,7 +101,7 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 <br>[3dp_arm-hingeouter.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-outer.stl){: .btn }
 <br>[3dp_arm-hingeaxle.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-axel.stl){: .btn }
 <br>[3dp_hand-bracket.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-bracket.stl){: .btn }
-<br>[3dp_hand-axle.stl](){: .btn }
+<br>[3dp_hand-axle.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-axel.stl){: .btn }
 
 
 - Joined barrel and piston part. Added screw hole to minimise axle movement.
@@ -110,7 +110,7 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Arm bracket for servo, not scaled down.
 
 ## Neck
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968d0d8dbebc814d4d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968d0d8dbebc814d4d1?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 [3dp_neck-top.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/neck-top.stl){: .btn }
 <br>[3dp_neck-bottomleft.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/nec-bottomleft.stl){: .btn }
@@ -124,12 +124,12 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 ## Eyes
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9686a979975ea23e002?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<br>[3dp_head-axle.stl](){: .btn }
-<br>[3dp_head-centre.stl](){: .btn }
-<br>[3dp_eye-middleright.stl](){: .btn }
-<br>[3dp_eye-middleleft.stl](){: .btn }
-<br>[3dp_eye-frontright.stl](){: .btn }
-<br>[3dp_eye-frontleft.stl](){: .btn }
+<br>[3dp_head-axle.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/head-axel.stl){: .btn }
+<br>[3dp_head-centre.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/head-centre.stl){: .btn }
+<br>[3dp_eye-middleright.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/eye-middleright.stl){: .btn }
+<br>[3dp_eye-middleleft.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/eye-middle-left.stl){: .btn }
+<br>[3dp_eye-frontright.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/eye-front-right.stl){: .btn }
+<br>[3dp_eye-frontleft.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/eye-front-left.stl){: .btn }
 
 
 
