@@ -75,9 +75,9 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 **Sides, right & left**
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968df956dfd15fe8c56?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[3dp_body-right.stl](){: .btn }
+[3dp_body-right.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/body-right%20MGservo.stl){: .btn }
 
-[3dp_body-left.stl](){: .btn }
+[3dp_body-left.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/body-left%20MGservo.stl){: .btn }
 
 - I checked the alignment by importing other components. Made sure it all fits together and modified accordingly
 - Includes servo bracket, arm hinge, motor, body-bottom, acrylic frame and linkage.
@@ -89,10 +89,11 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 
 [3dp_arm.stl](){: .btn }
 [3dp_fingers.stl](){: .btn }
-[3dp_arm-hinge.stl](){: .btn }
+[3dp_arm-hingeinner.stl](){: .btn }
+[3dp_arm-hingeouter.stl](){: .btn }
 [3dp_hand-bracket.stl](){: .btn }
 
-- Joined barrel and piston part. Added screw hole.
+- Joined barrel and piston part. Added screw hole to minimise axle movement.
 - Arm hinge outer extrude. longer.
 - Arm hinge inner not scaled down to fit arm servo.
 - Arm bracket for servo, not scaled down.

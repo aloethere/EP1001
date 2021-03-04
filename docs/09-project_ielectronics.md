@@ -6,4 +6,4 @@ parent: Project
 ---
 
 
-<iframe src="https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf" width="80%" height="500px"></iframe>
+<iframe src="https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf" width="80%" height="500px"></iframe>
