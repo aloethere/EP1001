@@ -8,7 +8,7 @@ parent: Project
 # The Hardware
 ---
 
-## Tank treads
+## Tank tracks
 
 My first step was to design the tracks for WALL-E. Since WALL-E has a triangular shaped tracks, I attempted to position the 3 lego wheels together and fit the rubber treads for the left and right side. From there, I estimated a fixed position where the 3 wheels would be and laser cut acrylic to hold them together. The acrylic acts as a supporting frame for the positioned wheel rims. This step took a few tries to get my rubber track drive treads fit well together without it being too tight or too loose. 
 
@@ -20,7 +20,7 @@ My first step was to design the tracks for WALL-E. Since WALL-E has a triangular
 
 [tracks_frame.dxf](https://github.com/aloethere/EP1001/blob/gh-pages/files/laser%20cut%20track%20supoort%20new%20v4.f3d?raw=true){: .btn }
 
-While finalising my acrylic design, I also realised that it would be better if i trim the lego wheels to be narrower in width. This is so that the drive wheel tracks looks flushed. So i sawed them on each sides. I use a total of 6 wheel rims. I also attached some washers so there could be less friction when the wheels are rotating.
+While finalising my acrylic design, I also realised that it would be better if i trim the lego wheels to be narrower in width. This is so that the wheels in between looks flushed. So i sawed them on each sides. I use a total of 6 wheel rims. I also attached some washers so there could be less friction when the wheels are rotating.
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/project/wheel%20trimmed.jpeg?raw=true" width = "250">
 <br><sub><em>Trimmed lego wheels (only 1 side)</em></sub>
@@ -49,7 +49,6 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 [3dp_body-bottom.stl](){: .btn }
 
 - Custom part to link bottom to tracks
-
 
 **Front**
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96811d2b3882f03bf3e?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -84,15 +83,24 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Added holes for motor and screws.
 - Reposition engraved area for force-fitted servo arm brackets
 
-**Arms**
-<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9686af2c646f9c13c02?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+**Top**
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968101d51db1d201d3e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+- Created an on/off switch area
+- Should hv check the screw hole position that connects to arm bracket
+- Redesigned to 3 button holes. Idea was to add in sounds when button pressed. Not implemented.
+- In final design, I change a different on/off switch model. So I drilled a hole to fit that.
+
+## Arms
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96894478f97a80e5124?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 [3dp_arm.stl](){: .btn }
 <br>[3dp_fingers.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-fingers%20.stl){: .btn }
-<br>[3dp_arm-hingeinner.stl](){: .btn }
-<br>[3dp_arm-hingeouter.stl](){: .btn }
+<br>[3dp_arm-hingeinner.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-inne.stl){: .btn }
+<br>[3dp_arm-hingeouter.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-outer.stl){: .btn }
 <br>[3dp_arm-hingeaxle.stl](){: .btn }
 <br>[3dp_hand-bracket.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-bracket.stl){: .btn }
+<br>[3dp_hand-axle.stl](){: .btn }
 
 
 - Joined barrel and piston part. Added screw hole to minimise axle movement.
@@ -100,10 +108,19 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Arm hinge inner not scaled down to fit arm servo.
 - Arm bracket for servo, not scaled down.
 
+## Neck
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968d0d8dbebc814d4d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+[3dp_neck-top.stl](){: .btn }
+<br>[3dp_neck-bottom.stl](){: .btn }
+<br>[3dp_neck-bottomaaxle.stl](){: .btn }
 
+- Not implementing motorised neck movement since when scaled down, servo does not fit.
+- So, Joined the neck top parts together as one.
+- Neck Bottom left and right are glued after inserting axle
 
-**Top**
+## Eyes
+
 
 
 
