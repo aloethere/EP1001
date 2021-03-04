@@ -46,7 +46,8 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 
 **Bottom** 
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685532433c7c358afe?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-[3dp_body-bottom.stl](){: .btn }
+
+[3dp_body-bottom.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/body-bottom.stl){: .btn }
 
 - Custom part to link bottom to tracks
 
@@ -66,7 +67,7 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 **Back**
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9685e1bd83f49a45bf1?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[3dp_body-back.stl](){: .btn }
+[3dp_body-back.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/body-back%20.stl){: .btn }
 
 - Cut out space to hold battery.
 - Note: Still not enough space.
@@ -89,16 +90,16 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Created an on/off switch area
 - Should hv check the screw hole position that connects to arm bracket
 - Redesigned to 3 button holes. Idea was to add in sounds when button pressed. Not implemented.
-- In final design, I change a different on/off switch model. So I drilled a hole to fit that.
+- In final design, I change a different on/off switch model. So I drilled another hole to fit that.
 
 ## Arms
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd96894478f97a80e5124?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[3dp_arm.stl](){: .btn }
+[3dp_arm.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-barrelandpiston.stl){: .btn }
 <br>[3dp_fingers.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-fingers%20.stl){: .btn }
 <br>[3dp_arm-hingeinner.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-inne.stl){: .btn }
 <br>[3dp_arm-hingeouter.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-outer.stl){: .btn }
-<br>[3dp_arm-hingeaxle.stl](){: .btn }
+<br>[3dp_arm-hingeaxle.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/arm-hinge-axel.stl){: .btn }
 <br>[3dp_hand-bracket.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/hand-bracket.stl){: .btn }
 <br>[3dp_hand-axle.stl](){: .btn }
 
@@ -111,12 +112,13 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 ## Neck
 <iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd968d0d8dbebc814d4d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[3dp_neck-top.stl](){: .btn }
-<br>[3dp_neck-bottom.stl](){: .btn }
-<br>[3dp_neck-bottomaaxle.stl](){: .btn }
+[3dp_neck-top.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/neck-top.stl){: .btn }
+<br>[3dp_neck-bottomleft.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/nec-bottomleft.stl){: .btn }
+<br>[3dp_neck-bottomright.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/neck-bottomright.stl){: .btn }
+<br>[3dp_neck-bottomaxle.stl](https://github.com/aloethere/EP1001/raw/gh-pages/files/neck-bottom-axle.stl){: .btn }
 
 - Not implementing motorised neck movement since when scaled down, servo does not fit.
-- So, Joined the neck top parts together as one.
+- So, joined the neck top parts together as one.
 - Neck Bottom left and right are glued after inserting axle
 
 ## Eyes
