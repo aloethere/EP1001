@@ -15,7 +15,6 @@ The movie WALL-E produced by Pixar is a masterpiece that stucked with me till no
 I have always wanted to make my own robot. And i guess that this is the perfect time to attempt to create it. If I am succesful, this will my first ever robot creation. WALL-E is darn cute, and not as complex as other animated robots. My intention is also to learn as much as I can through this project and enjoy the process. 
 
 
-
 **The Plan**
 
 When speaking to Mr. Yeo about my idea of creating a track based robot, he offered me to use a lego wheel and rubber track that fits together. I figured I have to design a triangular shape track and make do what is available. 
