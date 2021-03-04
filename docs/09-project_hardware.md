@@ -122,6 +122,14 @@ The rest of WALL-E's body stucture are based on [chillibasket's WALL-E replica o
 - Neck Bottom left and right are glued after inserting axle
 
 ## Eyes
+<iframe src="https://ichat754.autodesk360.com/shares/public/SH56a43QTfd62c1cd9686a979975ea23e002?mode=embed" width="540" height="380" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<br>[3dp_head-axle.stl](){: .btn }
+<br>[3dp_head-centre.stl](){: .btn }
+<br>[3dp_eye-middleright.stl](){: .btn }
+<br>[3dp_eye-middleleft.stl](){: .btn }
+<br>[3dp_eye-frontright.stl](){: .btn }
+<br>[3dp_eye-frontleft.stl](){: .btn }
 
 
 
