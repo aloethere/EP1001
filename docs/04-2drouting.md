@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Large format CNC machining
 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/cncdef.png?raw=true" width = "350">
+
 CNC machining is a subtractive manufacturing process. Here, I mainly learnt about 3-axis milling using the Versatil 2D CNC router in Fablab.
 
 The file design can be prepared in a CAD software. Once the design is finalised, you can export the file as DXF and work on Vcarve Pro or go to the Manufacture workspace on Fusion360 to generate your Gcode.
@@ -39,7 +41,7 @@ Speeds: Spindle rotational speed
 Feeds: Machine linear speed. Also known as feedrate.
 Chipload: 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "450">
-<img src="" width = "450">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chips.png?raw=true" width = "450">
 If chipload too small, could cause fire. More rubbing on the bit. 
 
 **Formula:**
@@ -87,15 +89,19 @@ Then, calculate the toolpath and preview to make sure they are moving as we want
 I check the wood stock width and make sure they are correct.
 
 When satisfied, secure the stock wood on the sacrifiacial board using screws.
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/sacrificial%20layer.png?raw=true" width = "350">
 
 1. Launch the NC-Easy software
 2. Import the Gcode.
-3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of the Z-axis. Place the z-axis height sensor. 
+3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of the Z-axis. Place the z-axis height sensor.
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/toolmeasure.png?raw=true" width = "350">
 4. Use the handheld remote to set X and Y axis.
 5. Power on the dust collector machine.
 6. When everything is ready, press "Start" and "Ok".
 7. Use vacumm to clean the chips created. 
 
-<img src="" width = "350">
 
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
 
