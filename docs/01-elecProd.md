@@ -157,11 +157,23 @@ Then I update my path on Windows Control Panel> Advanced System Setting > Enviro
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/path%20environment.png?raw=true" width="400"/>
 
 To check everything is installed, run Git Bash and type:
- - make -v
- - avr-gcc ---version
- - avrdude -c usbtiny -p t85
+- make -v
+- avr-gcc ---version
+- avrdude -c usbtiny -p t85
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/test%20make%20and%20avrgcc%20at%20gitbash.png?raw=true" width="300"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/test%20make%20and%20avrgcc%20at%20gitbash.png?raw=true" width="500"/>
+
+```
+nur_a@DESKTOP-MGQR7F7 MINGW64 ~
+$ avrdude -c usbtiny -p t85
+
+avrdude.exe: initialization failed, rc=-1
+Double check connections and try again, or use -F to override
+this check.
+
+avrdude.exe done.  Thank you.
+```
+<br><sub><em>"This means that avrdude successfully found your programmer, but failed to talk to a target board (expected because we don't have anything conencted to the programmer right now." ~ Brian's page</em></sub>
 
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/zadig.PNG?raw=true" width="400"/><br><sub><em></em></sub>
