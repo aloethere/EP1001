@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Large format CNC machining
 
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/cncdef.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/cncdef.png?raw=true" width = "450">
 
 CNC machining is a subtractive manufacturing process. Here, I mainly learnt about 3-axis milling using the Versatil 2D CNC router in Fablab.
 
@@ -40,8 +40,8 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 <br>Speeds: Spindle rotational speed
 <br>Feeds: Machine linear speed. Also known as feedrate.
 <br>Chipload: 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "250">
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chips.png?raw=true" width = "250">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "200">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chips.png?raw=true" width = "185">
 <br>If chipload too small, could cause fire. More rubbing on the bit. 
 
 **Formula:**
