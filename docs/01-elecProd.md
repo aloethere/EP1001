@@ -152,33 +152,21 @@ To set up my development environment, i installed the following softwares.
 4. Avrdude
 5. Zadig
 
-<img src="" width="400"/><br><sub><em></em></sub>
+Then I update my path on Windows Control Panel> Advanced System Setting > Environment Variables
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/path%20environment.png?raw=true" width="400"/>
+
+To check everything is installed, run Git Bash and type:
+ - make -v
+ - avr-gcc ---version
+ - avrdude -c usbtiny -p t85
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/test%20make%20and%20avrgcc%20at%20gitbash.png?raw=true" width="300"/>
 
 
-```
-nur_a@DESKTOP-MGQR7F7 MINGW64 ~
-$ make -v
-GNU Make 3.81
-Copyright (C) 2006  Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.
-There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.
-
-This program built for i386-pc-mingw32
-
-nur_a@DESKTOP-MGQR7F7 MINGW64 ~
-$ avr-gcc --version
-avr-gcc.exe (AVR_8_bit_GNU_Toolchain_3.6.2_1778) 5.4.0
-Copyright (C) 2015 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-nur_a@DESKTOP-MGQR7F7 MINGW64 ~
-$ avrdude -c usbtiny -p t85
-
-avrdude.exe: initialization failed, rc=-1
-Double check connections and try again, or use -F to override
-this check.
-
-avrdude.exe done.  Thank you.
-```
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/zadig.PNG?raw=true" width="400"/><br><sub><em></em></sub>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recognise%20usbSPI.png?raw=true" width="300"/>
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/programmer%20t85.png?raw=true" width="300"/>
+<img src="" width="300"/>
+<img src="" width="300"/>
+<img src="" width="300"/>
