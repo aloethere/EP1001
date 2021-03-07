@@ -101,10 +101,9 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 6. When everything is ready, press "Start" and "Ok".
 7. Use vacumm to clean the chips created. 
 
-Cutting looks nice. However, due to the sacrificial layer wood shown in the picture not fixed tightly the Z surface is not entirely flat. So this happens. :(
+Cutting looks nice. However, due to the sacrificial layer wood shown in the picture not fixed tightly the Z surface is not entirely flat. So this happenned. :(
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "340">
-
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "340">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "320">
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/z%20problem.png?raw=true" width = "350">
