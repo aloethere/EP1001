@@ -69,20 +69,21 @@ I attempt to build an activity cube for toddlers. The faces will look like this.
 
 ## The CAM process
 
-From Fusion, dxf is exported to create my toolpath on VcarvePro. To do this, need to move the origin point to the top face of the bodies. Then select "import vectors" under VcarvePro. 
-<img src="" width = "350">
-<br><img src="" width = "350">
+From Fusion, dxf is exported to create my toolpath on VcarvePro. To do this, need to move the Z origin plane to the top face of the bodies.
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane2.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/dxf.png?raw=true" width = "350">
 
-On Vcarve pro, we need to set the instructions for the toolpath. In my design, there are 2 types of toothpath; Pocket and Profile. Selecting "profile" will cut through the material and "pocket" is not cutting all the way through. 
+Then select "import vectors" under VcarvePro. On Vcarve pro, we need to set the instructions for the toolpath. In my design, there are 2 types of toothpath; Pocket and Profile. Selecting "profile" will cut through the material and "pocket" is not cutting all the way through. 
 
 This area has to hv 2 separate pocket toolpath.
 
-<img src="" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/problempocket.png?raw=true" width = "350">
 
 The end mill I am using is 6mm.
 
 This is the settings used for th 2d profile toolpath.
-<br><img src="" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/2dprofiletoolpath.png?raw=true" width = "150">
 
 Then, calculate the toolpath and preview to make sure they are moving as we wanted.
 
@@ -102,6 +103,8 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 
 
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/z%20problem.png?raw=true" width = "350">
 
 
