@@ -96,14 +96,14 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 2. Import the Gcode.
 3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of the Z-axis. Place the z-axis height sensor.
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/toolmeasure.png?raw=true" width = "250">
-4. Use the handheld remote to set X and Y axis.
+4. Set X and Y axis. Can use the handheld remote to
 5. Power on the dust collector machine.
 6. When everything is ready, press "Start" and "Ok".
 7. Use vacumm to clean the chips created. 
 
 Cutting looks nice. However, due to the sacrificial layer wood shown in the picture not fixed tightly the Z surface is not entirely flat. So this happenned. :(
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "300">
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250"><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/z%20problem.png?raw=true" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "285">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "200"><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/z%20problem.png?raw=true" width = "350">
 
 
