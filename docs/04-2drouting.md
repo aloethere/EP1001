@@ -37,7 +37,7 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 
 ### Speeds and feeds
 
-<br>Speeds: Spindle rotational speed
+Speeds: Spindle rotational speed
 <br>Feeds: Machine linear speed. Also known as feedrate.
 <br>Chipload: 
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "200">
@@ -54,14 +54,13 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 - Dogbone
 - Tabs
 
-
-<span style="color:red"> **Safety** </span>
+### <span style="color:red"> Safety </span>
 1. Wear protective equipment: Safety goggles and hearing protection.
 2. Do not wear loose clothes,
 3. Keep a safe distance from the bit
 
 
-# Assignment: Make something big
+# Assignment: Make something big (Minimum 300mmx300mm)
 ---
 
 I attempt to build an activity cube for toddlers. The faces will look like this. 
@@ -70,8 +69,9 @@ I attempt to build an activity cube for toddlers. The faces will look like this.
 ## The CAM process
 
 From Fusion, dxf is exported to create my toolpath on VcarvePro. To do this, need to move the Z origin plane to the top face of the bodies.
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane.png?raw=true" width = "350">
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane2.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane.png?raw=true" width = "330">
+
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/origin%20plane2.png?raw=true" width = "330">
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/dxf.png?raw=true" width = "350">
 
 Then select "import vectors" under VcarvePro. On Vcarve pro, we need to set the instructions for the toolpath. In my design, there are 2 types of toothpath; Pocket and Profile. Selecting "profile" will cut through the material and "pocket" is not cutting all the way through. 
@@ -101,10 +101,11 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 6. When everything is ready, press "Start" and "Ok".
 7. Use vacumm to clean the chips created. 
 
-
+Cutting looks nice. However, due to the sacrificial layer wood shown in the picture not fixed tightly the Z surface is not entirely flat. So this happens. :(
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/lookinggoodcutted.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
+
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/z%20problem.png?raw=true" width = "350">
 
 
