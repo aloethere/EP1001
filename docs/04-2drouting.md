@@ -17,7 +17,7 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 
 ## Understanding how to operate CNC machine
 
-<img src="" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/overviewcnc.png?raw=true" width = "350">
 
 1. Put the stock on the bed. 
 2. There are a few ways to strap in the material. Screw, clamp or use vacumm table.
@@ -29,16 +29,16 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 
 ### Tooling
 
-<img src="" width = "450">
-flute: 
-<img src="" width = "450">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/tooling.png?raw=true" width = "450">
+<br>flute: 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/flute.png?raw=true" width = "450">
 
 ### Speeds and feeds
 
 Speeds: Spindle rotational speed
 Feeds: Machine linear speed. Also known as feedrate.
 Chipload: 
-<img src="" width = "450">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "450">
 <img src="" width = "450">
 If chipload too small, could cause fire. More rubbing on the bit. 
 
@@ -56,9 +56,7 @@ Feedrate: spindle speed x spindle speed x flute
 <span style="color:red"> **Safety** </span>
 1. Wear protective equipment: Safety goggles and hearing protection.
 2. Do not wear loose clothes,
-
-
-
+3. Keep a safe distance from the bit
 
 
 # Assignment: Make something big
@@ -92,7 +90,7 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 
 1. Launch the NC-Easy software
 2. Import the Gcode.
-3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of  X-axis. Place the z-axis height sensor. 
+3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of the Z-axis. Place the z-axis height sensor. 
 4. Use the handheld remote to set X and Y axis.
 5. Power on the dust collector machine.
 6. When everything is ready, press "Start" and "Ok".
