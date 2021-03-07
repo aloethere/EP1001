@@ -94,14 +94,14 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 1. Launch the NC-Easy software
 2. Import the Gcode.
 3. To calibrate Z-axis, click "tool measure". Note: There is a default position for the calibration of the Z-axis. Place the z-axis height sensor.
-<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/toolmeasure.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/toolmeasure.png?raw=true" width = "250">
 4. Use the handheld remote to set X and Y axis.
 5. Power on the dust collector machine.
 6. When everything is ready, press "Start" and "Ok".
 7. Use vacumm to clean the chips created. 
 
 
-
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
+
 
