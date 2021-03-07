@@ -153,3 +153,32 @@ To set up my development environment, i installed the following softwares.
 5. Zadig
 
 <img src="" width="400"/><br><sub><em></em></sub>
+
+
+```
+nur_a@DESKTOP-MGQR7F7 MINGW64 ~
+$ make -v
+GNU Make 3.81
+Copyright (C) 2006  Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+This program built for i386-pc-mingw32
+
+nur_a@DESKTOP-MGQR7F7 MINGW64 ~
+$ avr-gcc --version
+avr-gcc.exe (AVR_8_bit_GNU_Toolchain_3.6.2_1778) 5.4.0
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+nur_a@DESKTOP-MGQR7F7 MINGW64 ~
+$ avrdude -c usbtiny -p t85
+
+avrdude.exe: initialization failed, rc=-1
+Double check connections and try again, or use -F to override
+this check.
+
+avrdude.exe done.  Thank you.
+```
