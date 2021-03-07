@@ -12,7 +12,7 @@ The movie WALL-E produced by Pixar is a masterpiece that stucked with me till no
 
 **Why make WALL-E?**
 
-I have always wanted to make my own robot. And i guess that this is the perfect time to attempt to create it. If I am succesful, this will my first ever robot creation. WALL-E is darn cute, and not as complex as other animated robots. My intention is also to learn as much as I can through this project and enjoy the process. 
+I have always wanted to make my own robot. And i guess that this is the perfect time to attempt to create it. If I am succesful, this will my first ever robot creation. WALL-E is darn cute, and not as complex as other animated robots. My intention is also to explore as much as I can through this project and enjoy the process. 
 
 
 **The Plan**
