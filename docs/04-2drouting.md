@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Large format CNC machining
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/cncdef.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/cncdef.png?raw=true" width = "350">
 
 CNC machining is a subtractive manufacturing process. Here, I mainly learnt about 3-axis milling using the Versatil 2D CNC router in Fablab.
 
@@ -19,13 +19,13 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 
 ## Understanding how to operate CNC machine
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/overviewcnc.png?raw=true" width = "350">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/overviewcnc.png?raw=true" width = "350">
 
 1. Put the stock on the bed. 
 2. There are a few ways to strap in the material. Screw, clamp or use vacumm table.
 3. There must be a sacrificial layer under your stock.
 4. Import your Gcode on the program software. We using NC-EASY
-5. Set X,Y and Z axis.
+5. Set X, Y and Z axis.
 6. Switch on the dust collector.
 7. Start. Be aware of your surroundings.
 
@@ -33,19 +33,19 @@ From what I understood, CNC milling can be used on materials such as wood, foam 
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/tooling.png?raw=true" width = "450">
 <br>flute: 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/flute.png?raw=true" width = "450">
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/flute.png?raw=true" width = "450">
 
 ### Speeds and feeds
 
-Speeds: Spindle rotational speed
-Feeds: Machine linear speed. Also known as feedrate.
-Chipload: 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "450">
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chips.png?raw=true" width = "450">
-If chipload too small, could cause fire. More rubbing on the bit. 
+<br>Speeds: Spindle rotational speed
+<br>Feeds: Machine linear speed. Also known as feedrate.
+<br>Chipload: 
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chipload.png?raw=true" width = "250">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/chips.png?raw=true" width = "250">
+<br>If chipload too small, could cause fire. More rubbing on the bit. 
 
 **Formula:**
-Feedrate: spindle speed x spindle speed x flute
+<br>Feedrate: spindle speed x spindle speed x flute
 
 ### Toolpath
 
@@ -89,7 +89,7 @@ Then, calculate the toolpath and preview to make sure they are moving as we want
 I check the wood stock width and make sure they are correct.
 
 When satisfied, secure the stock wood on the sacrifiacial board using screws.
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/sacrificial%20layer.png?raw=true" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/sacrificial%20layer.png?raw=true" width = "250">
 
 1. Launch the NC-Easy software
 2. Import the Gcode.
@@ -102,6 +102,6 @@ When satisfied, secure the stock wood on the sacrifiacial board using screws.
 
 
 
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "350">
+<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/clamp%20not%20clamping.png?raw=true" width = "250">
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/2dcnc/finishedcut.png?raw=true" width = "350">
 
