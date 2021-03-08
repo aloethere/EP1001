@@ -146,11 +146,11 @@ This is my soldered ISP board. I may need to work on my soldering skill but so f
 
 To set up my development environment, i installed the following softwares.
 
-1. Git [https://git-scm.com/download/win](https://git-scm.com/download/win)
-2. Atmel GNU Toolchain 
+1. Git   [https://git-scm.com/download/win](https://git-scm.com/download/win)
+2. Atmel GNU Toolchain  [https://www.microchip.com/en-us/development-tools-tools-and-software/gcc-compilers-avr-and-arm](https://www.microchip.com/en-us/development-tools-tools-and-software/gcc-compilers-avr-and-arm)
 3. GNU Make
 4. Avrdude 
-5. Zadig [https://zadig.akeo.ie/](https://zadig.akeo.ie/)
+5. Zadig   [https://zadig.akeo.ie/](https://zadig.akeo.ie/)
 
 Avrdude and GNU Make installer can be downloaded from [Brian's page](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html). Then I update my path on Windows Control Panel> Advanced System Setting > Environment Variables
 
@@ -158,7 +158,7 @@ Avrdude and GNU Make installer can be downloaded from [Brian's page](http://fab.
 
 To check everything is installed, run Git Bash and type:
 -make -v
--avr-gcc ---version
+-avr-gcc --version
 -avrdude -c usbtiny -p t85
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/test%20make%20and%20avrgcc%20at%20gitbash.png?raw=true" width="600"/>
@@ -176,7 +176,7 @@ avrdude.exe done.  Thank you.
 <sub><em>Initialization failed "This means that avrdude successfully found your programmer, but failed to talk to a target board (expected because we don't have anything conencted to the programmer right now." -Brian's page</em></sub>
 
 Then, download the firmware source code. Again, find it on Brian's page. The firmware should extracted and edit the makefile. Type in the correct MCU.
-<img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/programmer%20t85.png?raw=true" width="300"/>
+<br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/programmer%20t85.png?raw=true" width="300"/>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/zadig.PNG?raw=true" width="400"/><br><sub><em></em></sub>
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/recognise%20usbSPI.png?raw=true" width="300"/>
