@@ -146,20 +146,20 @@ This is my soldered ISP board. I may need to work on my soldering skill but so f
 
 To set up my development environment, i installed the following softwares.
 
-1. Git   [https://git-scm.com/download/win](https://git-scm.com/download/win)
-2. Atmel GNU Toolchain  [https://www.microchip.com/en-us/development-tools-tools-and-software/gcc-compilers-avr-and-arm](https://www.microchip.com/en-us/development-tools-tools-and-software/gcc-compilers-avr-and-arm)
+1. [Git](https://git-scm.com/download/win)
+2. [Atmel GNU Toolchain](https://www.microchip.com/en-us/development-tools-tools-and-software/gcc-compilers-avr-and-arm)
 3. GNU Make
 4. Avrdude 
-5. Zadig   [https://zadig.akeo.ie/](https://zadig.akeo.ie/)
+5. [Zadig](https://zadig.akeo.ie/)
 
 Avrdude and GNU Make installer can be downloaded from [Brian's page](http://fab.cba.mit.edu/classes/863.16/doc/projects/ftsmin/windows_avr.html). Then I update my path on Windows Control Panel> Advanced System Setting > Environment Variables
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/path%20environment.png?raw=true" width="400"/>
 
 To check everything is installed, run Git Bash and type:
--make -v
--avr-gcc --version
--avrdude -c usbtiny -p t85
+- make -v
+- avr-gcc --version
+- avrdude -c usbtiny -p t85
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/test%20make%20and%20avrgcc%20at%20gitbash.png?raw=true" width="600"/>
 
