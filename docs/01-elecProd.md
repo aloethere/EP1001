@@ -175,7 +175,7 @@ avrdude.exe done.  Thank you.
 ```
 <sub><em>Initialization failed "This means that avrdude successfully found your programmer, but failed to talk to a target board (expected because we don't have anything conencted to the programmer right now." -Brian's page</em></sub>
 
-Then, download the firmware source code. Again, find it on Brian's page. The firmware should extracted and edit the makefile. Type in the correct MCU.
+Then, download the firmware source code. Again, find it on Brian's page. Extract and edit the makefile. Type in the correct MCU.
 <br><img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/programmer%20t85.png?raw=true" width="300"/>
 
 <img src="https://github.com/aloethere/EP1001/blob/gh-pages/images/zadig.PNG?raw=true" width="400"/><br><sub><em></em></sub>
